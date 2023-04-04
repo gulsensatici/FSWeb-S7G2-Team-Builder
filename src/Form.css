@@ -1,0 +1,30 @@
+.giris {
+    font-size: 30px;
+    font-style:oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(230, 172, 191);
+    margin-top: 10px;
+    text-align: center;
+}
+.app {
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    border-radius: 20px;
+    margin-left: 400px;
+    margin-right: 250px;
+    
+    
+}
+body{
+    background-image: url( https://ae01.alicdn.com/kf/Hbbb8541a22524597a84b994f911131fd0/Mehofond-foto-raf-arka-plan-renkli-bulut-g-kku-a-ocuk-do-um-g-n-partisi.jpg);
+    
+}
+.input{
+    color: plum;
+    font-style: oblique;
+     font-family: Verdana, Geneva, Tahoma, sans-serif, ;
+}
+
+
